@@ -1,0 +1,25 @@
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\bin\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\bin\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\bin\CodeCarvings.Piczard.dll
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\bin\CodeCarvings.Piczard.xml
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\mainak\Downloads\ImageUpload-master\ImageUpload-master\SimpleImageUpload_UserControl_WebApp_CS\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\Mainak\Desktop\proj\06052013\SimpleImageUpload_UserControl_WebApp_CS\bin\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\Mainak\Desktop\proj\06052013\SimpleImageUpload_UserControl_WebApp_CS\bin\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\Mainak\Desktop\proj\06052013\SimpleImageUpload_UserControl_WebApp_CS\bin\CodeCarvings.Piczard.xml
+C:\Users\Mainak\Desktop\proj\06052013\SimpleImageUpload_UserControl_WebApp_CS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Mainak\Desktop\proj\06052013\SimpleImageUpload_UserControl_WebApp_CS\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\Mainak\Desktop\proj\06052013\SimpleImageUpload_UserControl_WebApp_CS\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\Mainak\Desktop\proj\new new\bin\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\Mainak\Desktop\proj\new new\bin\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\Mainak\Desktop\proj\new new\bin\CodeCarvings.Piczard.xml
+C:\Users\Mainak\Desktop\proj\new new\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Mainak\Desktop\proj\new new\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\Mainak\Desktop\proj\new new\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\mainak\Projects\pos\working solution files\pos\bin\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\mainak\Projects\pos\working solution files\pos\bin\SimpleImageUpload_UserControl_WebApp_CS.pdb
+C:\Users\mainak\Projects\pos\working solution files\pos\bin\CodeCarvings.Piczard.xml
+C:\Users\mainak\Projects\pos\working solution files\pos\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\mainak\Projects\pos\working solution files\pos\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.dll
+C:\Users\mainak\Projects\pos\working solution files\pos\obj\Debug\SimpleImageUpload_UserControl_WebApp_CS.pdb

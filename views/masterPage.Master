@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterPage.master.cs" Inherits="POS.views.masterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+     <asp:ContentPlaceHolder ID="MainHeadContent" runat="server">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300' rel='stylesheet' type='text/css'>
+
+        <link href="../css/bootstrap/bootstrap.min.css" rel="stylesheet" media="screen" >
+        <link href="../css/virtualKB/keyboard.css" rel="stylesheet" />
+
+        <link rel="stylesheet" href="../css/colorpicker/colorpicker.css" type="text/css" />
+        <link rel="stylesheet" media="screen" type="text/css" href="../css/colorpicker/layout.css" />
+
+        <link href="../css/style.css" rel="stylesheet" />
+
+        
+
+        <script src="http://code.jquery.com/jquery.js" type="text/javascript"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+        <script src="../Scripts/bootstrap/bootstrap.min.js" type="text/javascript"></script>
+
+        <script src="../Scripts/virtualKB/jquery.keyboard.js" type="text/javascript"></script>
+        <script src="../Scripts/virtualKB/jquery.keyboard.extension-typing.js" type="text/javascript"></script>
+
+        <script type="text/javascript" src="../Scripts/colorpicker/colorpicker.js"></script>
+        <script type="text/javascript" src="../Scripts/colorpicker/eye.js"></script>
+        <script type="text/javascript" src="../Scripts/colorpicker/utils.js"></script>
+        <script type="text/javascript" src="../Scripts/colorpicker/layout.js?ver=1.0.2"></script>
+
+        <script type="text/javascript" src="../Scripts/alert/jquery.bsalerts.js" ></script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('input:text').keyboard({
+                    autoAccept: true,
+                    tabNavigation: false,
+                    stickyShift: false,
+                    usePreview: false,
+                    position: {
+                        of: "body",
+                        my: "center center",
+                        at: "center center"
+                    }
+                })
+                .addTyping();
+            });
+        </script>
+
+    </asp:ContentPlaceHolder>
+
+     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+     </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="main">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+    </div>
+    </form>
+</body>
+</html>

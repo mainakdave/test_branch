@@ -1,0 +1,40 @@
+﻿html
+{
+    height: 100%;
+    background: url("../img/handmadepaper.png") !important; /* ricepaper2 */
+}
+body
+{
+    background: url("../img/handmadepaper.png") !important;
+    font-family: 'Open Sans', sans-serif !important;
+}
+#department label
+{
+    float: left;
+}
+#department td
+{
+    padding: 5px 10px;
+}
+input
+{
+    font-family: 'Open Sans', sans-serif !important;
+}
+input[type="text"]:focus
+{
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+}
+
+#alertBox
+{
+    position:absolute;
+    width:auto;
+    height:auto;
+    font-size:20px;
+}
+
+#department table, #section table {margin-right: 0}
+#department table input, #section table input{width: 100%;}
